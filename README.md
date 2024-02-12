@@ -1,5 +1,5 @@
-- 👋 Welcome to my GitHub, I'm Mukesh Mishra!
-- 😄 Pronouns: He, him
+👋 Welcome to my GitHub, I'm Mukesh Mishra!
+😄 Pronouns: He, him
 
 🔍 Passionate about the transformative power of data science, artificial intelligence (AI), and machine learning (ML), I find myself constantly immersed in the exploration of these fields. My journey is currently anchored in the foundational seas of Linear Algebra, Calculus, and Mathematics for ML, believing firmly that these mathematical underpinnings are key to unlocking the full potential of AI technologies.
 
